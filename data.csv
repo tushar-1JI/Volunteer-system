@@ -1,0 +1,11 @@
+Request_ID,Need_Type,Urgency,Location,Description
+1,Food,High,Meerut,Need 50 food packets for colony A
+2,Medical,High,Modipuram,Urgent oxygen cylinder requirement
+3,Education,Medium,Shastri Nagar,Books needed for 10 students
+4,Shelter,Low,Partapur,Temporary stay for 2 people
+5,Medical,Medium,Meerut Cantt,First aid kits required
+6,Food,Low,Kankerkhera,Weekly ration for one family
+7,Education,High,Pallavpuram,Need a volunteer teacher for Math
+8,Medical,High,Sardhana,Ambulance coordination needed
+9,Food,Medium,Meerut,Community kitchen volunteers needed
+10,Shelter,High,Daurala,Emergency tent setup for rain
